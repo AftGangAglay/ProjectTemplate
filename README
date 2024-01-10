@@ -1,0 +1,15 @@
+            AftGangAglay Project Template
+
+This repo can be used as a template for AftGangAglay
+(https://aftgangaglay.github.io) projects.
+
+Everything in the root repo is licenced under the BSD Zero Clause Licence -
+this effectively means you can rework all the code and files as per your own
+licencing terms. Note that the script support library submoduled at
+`script/AGAScriptLib' is licenced under the GNU LGPL which has different terms.
+
+This file is part of the AftGangAglay Project Template
+(https://github.com/AftGangAglay/ProjectTemplate) which is licenced under the
+BSD Zero Clause License.
+
+Copyright (C) 2023 Emily "TTG" Banerjee <prs.ttg+aga@pm.me>
