@@ -5,8 +5,7 @@ This repo can be used as a template for AftGangAglay
 
 Everything in the root repo is licenced under the BSD Zero Clause Licence -
 this effectively means you can rework all the code and files as per your own
-licencing terms. Note that the script support library submoduled at
-`script/AGAScriptLib' is licenced under the GNU LGPL which has different terms.
+licencing terms.
 
 This file is part of the AftGangAglay Project Template
 (https://github.com/AftGangAglay/ProjectTemplate) which is licenced under the
